@@ -1,0 +1,14 @@
+{
+    "cid": "CID_028_Athena_Commando_F",
+    "bid": "BID_NPC_HightowerDate",
+    "eid": "EID_JulyBooks",
+    "level": 9999,
+    "bp_tier": 100000,
+		"AdminPassword": "123",
+    "friend_accept": "true",
+    "joinoninvite": "true",
+    "platform": "PS5",
+    "prefix": "!",
+		"FullAccess": [],
+    "debug": false
+}
